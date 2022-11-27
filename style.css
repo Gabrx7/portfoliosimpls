@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+body{
+    background: linear-gradient(to right, #191970,#0000FF );
+    background-size: 300% 400%;
+    font-size: 20px;}
+
+body {
+    color: aliceblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;}
+
+header{
+    padding: 20px;
+}
+
+.logolocalizacao{
+    width: 50px;
+    height: 50px;
+}
+
+.paragrafos{
+    padding: 10px;
+}
+.redessociais{
+    padding: 10px;
+}
+.logoredesocial{
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.logogithub{
+    border: 1px solid #fff;
+    border-radius: 20%;
+    background: #fff;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.fotoperfil{    
+    border: 8px solid #fff;
+    background: #fff;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 50%;
+}
